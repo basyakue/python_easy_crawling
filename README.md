@@ -1,2 +1,2 @@
-# python_practice2
+# python_crawling
 webクローリング
