@@ -1,2 +1,2 @@
-# python_crawling
+# python_easy_crawling
 webクローリング
